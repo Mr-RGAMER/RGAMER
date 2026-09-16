@@ -1,0 +1,5 @@
+{
+  "name": "RGAMER AI",
+  "description": "RGAMER AI VERSION 1.0.0 — Custom AI Assistant for 3D Modeling and Coding",
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
